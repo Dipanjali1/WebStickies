@@ -1,6 +1,6 @@
 # Virtual Sticky Notes Chrome Extension
 
-![Extension Icon](/images/icon48.png)
+![Extension Icon](/images/icon300.png)
 
 WebStickies is a versatile Chrome extension that allows you to create and save virtual sticky notes directly on webpages. It's designed to help you stay organized, collaborate with others, and enhance your web browsing experience.
 
